@@ -1,0 +1,5 @@
+r"""VTV - Vector-Time Video (beta)
+
+# Placeholder
+This is a temporary documentation block used while assembling the file.
+"""
